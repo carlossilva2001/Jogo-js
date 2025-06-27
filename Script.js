@@ -19,5 +19,4 @@ do {
                 let media = soma / i;
                 alert("A media dos numeros digitados é: " + media + "\n" + "E o total de numeros digitados é: " + i);
         }
-    } 
-}while (Numero >= 0);
+    }while (Numero >= 0);
